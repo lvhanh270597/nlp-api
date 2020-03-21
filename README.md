@@ -1,5 +1,10 @@
 # nlp-api
 
+## api link
+* http://api.visoul.me/home/correct_spelling
+* method: post
+* variables: text = cong nghe thong tin dang ngay cang phat trien manh
+
 {
     "data": {
         "output": [
